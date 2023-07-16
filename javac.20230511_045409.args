@@ -1,0 +1,5 @@
+-classpath
+.:target/dependency/*
+-d
+.
+./Main.java
